@@ -1,14 +1,14 @@
 About
 -----
 
-HelloFlot demonstrates how to integrate a simple Google Flot line chart into a Java Web Application. Read more at the website:
+HelloFlot demonstrates how to integrate a Google Flot line chart into a Java Web Application. Read more at the website:
 
   http://xeiam.com/
 
 Features
 -----
 
-* a chart Servlet serving Flot-formatted JSon 
+* a Servlet serving Flot-formatted JSon
 * JQuery
 * AJAX
 * timeseries data
